@@ -75,3 +75,6 @@ conanbuildinfo.txt
 conaninfo.txt
 graph_info.json
 build/*
+
+## VSCode
+.vscode/*
